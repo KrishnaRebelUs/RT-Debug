@@ -1,0 +1,1 @@
+@keyframes scrollUp{0%{transform:translateY(0)}to{transform:translateY(-50%)}}.scroll-container{height:330px;overflow:hidden;position:relative}.scroll-content{display:flex;flex-direction:column;animation:scrollUp 35s linear infinite}
